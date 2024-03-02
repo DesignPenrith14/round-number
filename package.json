@@ -1,0 +1,21 @@
+{
+  "name": "round-number",
+  "version": "1.0.0",
+  "description": "Rounding a number to the nearest integer",
+  "main": "src/index.js",
+  "keywords": ["round-number"],
+  "author": "DesignPenrith14",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DesignPenrith14/round-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DesignPenrith14/round-number/issues"
+  },
+  "homepage": "https://github.com/DesignPenrith14/round-number#readme",
+  "dependencies": {
+    "round-date": "1.1.2",
+    "dotenv": "^16.4.5"
+  }
+}
